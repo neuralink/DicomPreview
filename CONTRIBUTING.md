@@ -23,7 +23,7 @@ Thank you for your interest in contributing to DICOM QuickLook Preview! This doc
 
 3. **Set up the upstream remote** to keep your fork synchronized:
    ```bash
-   git remote add upstream https://github.com/neuralinkcorp/DicomPreview.git
+   git remote add upstream https://github.com/neuralink/DicomPreview.git
    git remote -v  # Verify remotes are set correctly
    ```
 
@@ -152,7 +152,7 @@ When reporting bugs or requesting features:
 ## Questions or Help
 
 If you need help or have questions:
-1. Check existing [Issues](https://github.com/neuralinkcorp/DicomPreview/issues) and [Discussions](https://github.com/neuralinkcorp/DicomPreview/discussions)
+1. Check existing [Issues](https://github.com/neuralink/DicomPreview/issues) and [Discussions](https://github.com/neuralink/DicomPreview/discussions)
 2. Open a new discussion for general questions
 3. Open an issue for bugs or specific feature requests
 

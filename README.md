@@ -26,7 +26,7 @@ The images reproduced in the preview may not render like they would in software 
 ## Installation
 
 ### From Release
-1. Download the latest release from the [Releases page](https://github.com/neuralinkcorp/DicomPreview/releases)
+1. Download the latest release from the [Releases page](https://github.com/neuralink/DicomPreview/releases)
 2. Move DicomPreview.app to your Applications folder
 3. Double-click to open (you may need to right-click and select "Open" the first time due to macOS security)
 4. The QuickLook extension will be automatically registered
@@ -35,7 +35,7 @@ The images reproduced in the preview may not render like they would in software 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/neuralinkcorp/DicomPreview.git
+   git clone https://github.com/neuralink/DicomPreview.git
    cd DicomPreview
    ```
 
@@ -116,5 +116,5 @@ This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICE
 ## Support
 
 For support, please:
-1. Search existing [Issues](https://github.com/neuralinkcorp/DicomPreview/issues)
+1. Search existing [Issues](https://github.com/neuralink/DicomPreview/issues)
 2. Open a new issue if needed
